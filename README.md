@@ -2,6 +2,7 @@
 My Psycho Patrol R mods :3
 ## List of mods
 * Noclip ([download](https://github.com/2duviz2/PPR-Mods/raw/refs/heads/main/Duviz-Noclip.zip)) - Enables the keybind to noclip without enabling debug mode (`0` by default)
+* PPR-Fixes ([download](https://github.com/2duviz2/PPR-Mods/raw/refs/heads/main/Duviz-Fixes.zip)) - Fixes font size not saving and flesh rats causing lag spikes
 ## How to install
 1) Install [ppr-modloader](https://github.com/CruS-Modding-Infrastructure/ppr-modloader/tree/main) (if havent already done)
 2) Drag the .zip file in `/mods` inside the game's directory, and DONT UNZIP IT
