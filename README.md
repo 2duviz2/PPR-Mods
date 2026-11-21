@@ -1,5 +1,7 @@
 # PPR-Mods
 My Psycho Patrol R mods :3
+## List of mods
+* Noclip - Enables the keybind to noclip without enabling debug mode (`0` by default)
 ## How to install
 1) Install [ppr-modloader](https://github.com/CruS-Modding-Infrastructure/ppr-modloader/tree/main) (if havent already done)
 2) Drag the .zip file in `/mods` inside the game's directory, and DONT UNZIP IT
